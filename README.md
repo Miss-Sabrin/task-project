@@ -1,6 +1,8 @@
 # my_project
 
 A new Flutter project.
+<img width="803" alt="task-project" src="https://github.com/user-attachments/assets/dbe8d9e2-6e15-4ba8-aef4-1ede4d0e61fe">
+
 
 ## Getting Started
 
